@@ -1,0 +1,15 @@
+Important Fields:
+Product__c:
+- Product Name
+- Batch Number
+- Expiry Date
+- Price
+- GST %
+- Quantity
+
+Invoice__c:
+- Invoice Number
+- Invoice Date
+- Medical Shop
+- Total Amount
+- GST Amount

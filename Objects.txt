@@ -1,0 +1,6 @@
+Custom Objects:
+1. Supplier__c
+2. Product__c
+3. Medical_Shop__c
+4. Invoice__c
+5. Invoice_Line_Item__c

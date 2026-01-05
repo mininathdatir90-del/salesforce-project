@@ -1,0 +1,6 @@
+Admin Tasks:
+- Create Custom Objects
+- Create Relationships (Lookup / Master-Detail)
+- Validation Rules
+- Page Layouts
+- Reports & Dashboard
